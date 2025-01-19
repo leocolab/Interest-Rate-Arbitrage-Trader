@@ -1,7 +1,5 @@
 # Interest-Rate-Arbitrage-Trader
 
-Overview
-
 This Python bot automates trading decisions on Polymarket by leveraging discrepancies between interest rate probabilities implied by the bond market and probabilities listed on Polymarket. It identifies profit opportunities using mean reversion strategies and Z-scores, dynamically adjusts thresholds based on expected volatility, and executes trades via the ClobClient API.
 
 Profit Opportunity
